@@ -34,7 +34,7 @@ Home Assistant OS and Supervised users can access this folder using,
 for example, the Samba add-on. Users of Home Assistant Container can
 mount a volume of their choice to `/media`.
 
-If you are a Home Assistant Core user, the default directory called is called
+If you are a Home Assistant Core user, the default directory is called
 `media` under the configuration path (where you `configuration.yaml` is).
 
 Files served from `media` are protected by the Home Assistant authentication
